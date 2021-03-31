@@ -1,0 +1,2 @@
+In this Project, I am using NLP for Spam detection in emails. In my data set, there are 5730 emails tht already groupd as Spam or NOT. I first used NLTK to remove the stop words 
+and then I used Porter stemmer to use the root of  the words.And then I will apply Tensorflow LSTM.
